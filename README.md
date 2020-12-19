@@ -22,6 +22,7 @@ The Game of Tetris in Machine Learning.pdf 是参考的关于俄罗斯方块的�
 俄罗斯方块.py是游戏的主要内容  
 你可以clone下来这个仓库直接使用，按a进入或者退出AI模式   
 mp4文件是程序运行效果的一个小例子  
+基于 Pierre Dellacherie 算法的俄罗斯方块 AI 实现.pdf是我们最终的小论文
 ## 程序说明  
 代码的核心主要有三各类，分别是：  
 Wall：实现程序的各个界面以及消除计分功能  
